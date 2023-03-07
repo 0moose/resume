@@ -1,0 +1,52 @@
+.main{
+    background-color: #000535;
+    color: #fff;
+}
+
+#contactdetails{
+    text-align: center;
+}
+
+#body{
+    max-width: 100%;
+    max-height: 100%;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 30px;
+}
+
+#text2{
+    display: flex;
+    justify-content: space-between;
+}
+
+#hit{
+    border: 1px;
+}
+
+#eat{
+    border: 1px;
+}
+
+#text3{
+    display: flex;
+    justify-content: space-between;
+}
+
+#text4{
+    display: flex;
+    justify-content: space-between;
+}
+
+@media only screen and (max-width: 700px){
+    #img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+}
+
+#mainbody{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
