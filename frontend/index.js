@@ -38,7 +38,7 @@ document.getElementById('hit').innerHTML = "Automobile Mechanic WorkShop, Kaura 
 
 document.getElementById('eat').innerHTML = "June 2020 - December 2020";
 
-document.getElementById('list').innerHTML += "<p><strong>Position</strong> : Apperentice </br> <ul><li>Repaired Cars dashboard malfunction</li> <li>Electrical wiring maintainace";
+document.getElementById('list').innerHTML += "<p><strong>Position</strong> : Apperentice </br> <ul><li>Fixed dashboard faults in cars </li> <li>Automobile electrical wiring service";
 
 document.getElementById('Etitle').innerHTML = "EDUCATION";
 
