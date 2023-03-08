@@ -88,7 +88,7 @@ function github() {
     a.title = "Github";
 
     //set the href property
-    a.href = "https://github.com/Omoose";
+    a.href = "https://github.com/0moose";
 
     //append the anchor element to the body.
     document.body.prepend(a);
