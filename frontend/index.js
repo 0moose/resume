@@ -82,14 +82,15 @@ function github() {
     let link = document.createTextNode("Github");
 
     //append the text node to anchor element.
-   // a.appendChild(link);
+    a.appendChild(link);
 
     //set the title
-    //a.title = "Github";
+    a.title = "Github";
 
     //set the href property
     a.href = "https://github.com/0moose";
 
     //append the anchor element to the body.
-    document.body.prepend(a);
+    document.link.prepend(a);
+    
 }
