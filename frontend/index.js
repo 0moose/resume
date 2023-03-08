@@ -72,3 +72,24 @@ document.getElementById('help').innerHTML = "Available on request";
 
 
 
+
+
+function github() {
+    //create ancchor element.
+    let a = document.createElement('a');
+
+    //create the textnode for anchor element
+    let link = document.createTextNode("Github");
+
+    //append the text node to anchor element.
+    a.appendChild(link);
+
+    //set the title
+    a.title = "Github";
+
+    //set the href property
+    a.href = "https://github.com/Omoose";
+
+    //append the anchor element to the body.
+    document.body.prepend(a);
+}
