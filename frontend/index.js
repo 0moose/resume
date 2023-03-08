@@ -34,11 +34,11 @@ document.getElementById('para1').innerHTML = "Started learning web development o
 
 document.getElementById('Wtitle').innerHTML = "WORK EXPERIENCE";
 
-document.getElementById('hit').innerHTML = "Automobile Mechanic WorkShop, Kaura Namoda, Zamfara";
+document.getElementById('hit').innerHTML = "Automobile  WorkShop, Kaura Namoda, Zamfara";
 
 document.getElementById('eat').innerHTML = "June 2020 - December 2020";
 
-document.getElementById('list').innerHTML += "<p><strong>Position</strong> : Apperentice </br> <ul><li>Fixed dashboard faults in cars </li> <li>Automobile electrical wiring service";
+document.getElementById('list').innerHTML += "<p><strong>Position</strong> : Intern </br> <ul><li>Fixed dashboard faults in cars </li> <li>Automobile electrical wiring service";
 
 document.getElementById('Etitle').innerHTML = "EDUCATION";
 
@@ -56,7 +56,7 @@ document.getElementById('timing').innerHTML = "2022";
 
 document.getElementById('Stitle').innerHTML = "SKILLS";
 
-document.getElementById('interests').innerHTML += "<ul><li>PHP</li> <li>JavaScript</li> <li>Python</li>";
+document.getElementById('interests').innerHTML += "<ul><li>HTML/CSS</li><li>PHP</li> <li>JavaScript</li> <li>Python</li><li>MySQL</li>";
 
 document.getElementById('Rtitle').innerHTML = "REFEREES";
 
