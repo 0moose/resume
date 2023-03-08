@@ -23,7 +23,7 @@ let skills = document.getElementById('skills');
 let referees = document.getElementById('referees');
 */
 
-document.getElementById('Fname').innerHTML = "MOSES MORDI";
+document.getElementById('Fname').innerHTML = "MOSES N MORDI";
 
 
 document.getElementById('details').innerHTML += "Benin Edo  | mosesnmordi@gmail.com | github.com/0moose | 08145561089";
