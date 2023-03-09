@@ -26,7 +26,7 @@ let referees = document.getElementById('referees');
 document.getElementById('Fname').innerHTML = "MOSES N MORDI";
 
 
-document.getElementById('details').innerHTML += "Benin Edo  | mosesnmordi@gmail.com | 08145561089";
+document.getElementById('details').innerHTML += "Benin Edo | 08145561089";
 
 document.getElementById('Ptitle').innerHTML = "PROFILE";
 
