@@ -26,7 +26,7 @@ let referees = document.getElementById('referees');
 document.getElementById('Fname').innerHTML = "MOSES N MORDI";
 
 
-document.getElementById('details').innerHTML += "Benin Edo  | mosesnmordi@gmail.com | github.com/0moose | 08145561089";
+document.getElementById('details').innerHTML += "Benin Edo  | mosesnmordi@gmail.com | 08145561089";
 
 document.getElementById('Ptitle').innerHTML = "PROFILE";
 
@@ -65,36 +65,15 @@ document.getElementById('help').innerHTML = "Available on request";
 
 
 
-
-
-
-
-
-
+function mailto() {
+    window.location.href = "mailto:mosesnmordi@gmail.com";
+}
 
 
 
 function github() {
-    //create ancchor element.
-    /*let a = document.createElement('a');
-
-    //create the textnode for anchor element
-    let link = document.createTextNode("Github");
-
-    //append the text node to anchor element.
-    a.appendChild(link);
-
-    //set the title
-    a.title = "Github";
-
-    //set the href property
-    a.href = "https://github.com/0moose";
-
-    //append the anchor element to the body.
-    document..prepend(a);*/
-
-    location.replace("https://www.github.com/0moose")
-
    
-    
+    // redirect to github profile
+    location.replace("https://www.github.com/0moose")
+  
 }
