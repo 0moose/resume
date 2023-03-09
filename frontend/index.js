@@ -76,7 +76,7 @@ document.getElementById('help').innerHTML = "Available on request";
 
 function github() {
     //create ancchor element.
-    let a = document.createElement('a');
+    /*let a = document.createElement('a');
 
     //create the textnode for anchor element
     let link = document.createTextNode("Github");
@@ -91,6 +91,10 @@ function github() {
     a.href = "https://github.com/0moose";
 
     //append the anchor element to the body.
-    document.link.prepend(a);
+    document..prepend(a);*/
+
+    location.replace("https://www.github.com/0moose")
+
+   
     
 }
