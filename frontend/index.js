@@ -64,7 +64,7 @@ document.getElementById('help').innerHTML = "Available on request";
 
 
 
-
+/* -call to social media- */
 function mailto() {
     window.location.href = "mailto:mosesnmordi@gmail.com";
 }
@@ -77,3 +77,8 @@ function github() {
     location.replace("https://www.github.com/0moose")
   
 }
+
+function twt() {
+    location.replace("https://twitter/o_moose_eth")
+}
+
