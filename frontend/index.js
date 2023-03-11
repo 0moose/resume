@@ -79,6 +79,6 @@ function github() {
 }
 
 function twt() {
-    location.replace("https://twitter/o_moose_eth")
+    location.replace("https://twitter.com/o_moose_eth")
 }
 
